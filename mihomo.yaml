@@ -56,23 +56,23 @@ proxies:
     mtu: 1280
     dialer-proxy: "Nova-WARP"
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
-  - {name: "سرویس رایگان نوا www.netiix.ir:443 [VLESS]", server: www.netiix.ir, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.19.149.25:2083 [VLESS]", server: 104.19.149.25, port: 2083, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.16.252.163:8443 [VLESS]", server: 104.16.252.163, port: 8443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 198.41.223.78:2083 [VLESS]", server: 198.41.223.78, port: 2083, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.17.182.138:2087 [VLESS]", server: 104.17.182.138, port: 2087, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 108.162.198.74:2087 [VLESS]", server: 108.162.198.74, port: 2087, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 162.159.35.233:2053 [VLESS]", server: 162.159.35.233, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.16.246.233:8443 [VLESS]", server: 104.16.246.233, port: 8443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.17.170.12:2083 [VLESS]", server: 104.17.170.12, port: 2083, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.17.151.173:2053 [VLESS]", server: 104.17.151.173, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 188.164.248.13:2053 [VLESS]", server: 188.164.248.13, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.17.61.174:2096 [VLESS]", server: 104.17.61.174, port: 2096, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.17.222.230:2053 [VLESS]", server: 104.17.222.230, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 104.17.214.120:443 [VLESS]", server: 104.17.214.120, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 8.35.211.145:2083 [VLESS]", server: 8.35.211.145, port: 2083, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 173.245.59.112:8443 [VLESS]", server: 173.245.59.112, port: 8443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
-  - {name: "سرویس رایگان نوا 172.66.3.244:443 [VLESS]", server: 172.66.3.244, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: firefox, network: xhttp, xhttp-opts: {path: /proxyip=149.248.199.173, host: www.netiix.ir, mode: stream-one}}
+  - {name: "سرویس رایگان نوا www.netiix.ir:443 [VLESS]", server: www.netiix.ir, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.17.188.129:443 [VLESS]", server: 104.17.188.129, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.16.146.121:443 [VLESS]", server: 104.16.146.121, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 172.67.74.20:2053 [VLESS]", server: 172.67.74.20, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 198.41.208.29:8443 [VLESS]", server: 198.41.208.29, port: 8443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 172.66.1.172:8443 [VLESS]", server: 172.66.1.172, port: 8443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.19.54.50:2053 [VLESS]", server: 104.19.54.50, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 198.41.223.38:2053 [VLESS]", server: 198.41.223.38, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 172.66.2.96:443 [VLESS]", server: 172.66.2.96, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 8.39.125.138:443 [VLESS]", server: 8.39.125.138, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.19.32.71:443 [VLESS]", server: 104.19.32.71, port: 443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.19.144.71:2096 [VLESS]", server: 104.19.144.71, port: 2096, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 173.245.58.170:8443 [VLESS]", server: 173.245.58.170, port: 8443, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.17.62.182:2096 [VLESS]", server: 104.17.62.182, port: 2096, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 162.159.38.132:2087 [VLESS]", server: 162.159.38.132, port: 2087, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 104.19.54.181:2053 [VLESS]", server: 104.19.54.181, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
+  - {name: "سرویس رایگان نوا 188.164.248.51:2053 [VLESS]", server: 188.164.248.51, port: 2053, type: vless, uuid: 9c4364d0-0bd3-4763-87b8-252c206a5cb8, tls: true, skip-cert-verify: false, servername: www.netiix.ir, client-fingerprint: 360, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: www.netiix.ir}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -84,22 +84,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا www.netiix.ir:443 [VLESS]
-      - سرویس رایگان نوا 104.19.149.25:2083 [VLESS]
-      - سرویس رایگان نوا 104.16.252.163:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.78:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.182.138:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.74:2087 [VLESS]
-      - سرویس رایگان نوا 162.159.35.233:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.246.233:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.170.12:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.151.173:2053 [VLESS]
-      - سرویس رایگان نوا 188.164.248.13:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.61.174:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.222.230:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.214.120:443 [VLESS]
-      - سرویس رایگان نوا 8.35.211.145:2083 [VLESS]
-      - سرویس رایگان نوا 173.245.59.112:8443 [VLESS]
-      - سرویس رایگان نوا 172.66.3.244:443 [VLESS]
+      - سرویس رایگان نوا 104.17.188.129:443 [VLESS]
+      - سرویس رایگان نوا 104.16.146.121:443 [VLESS]
+      - سرویس رایگان نوا 172.67.74.20:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.29:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.1.172:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.54.50:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.223.38:2053 [VLESS]
+      - سرویس رایگان نوا 172.66.2.96:443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.138:443 [VLESS]
+      - سرویس رایگان نوا 104.19.32.71:443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.71:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.170:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.62.182:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.132:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.54.181:2053 [VLESS]
+      - سرویس رایگان نوا 188.164.248.51:2053 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -107,44 +107,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا www.netiix.ir:443 [VLESS]
-      - سرویس رایگان نوا 104.19.149.25:2083 [VLESS]
-      - سرویس رایگان نوا 104.16.252.163:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.78:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.182.138:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.74:2087 [VLESS]
-      - سرویس رایگان نوا 162.159.35.233:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.246.233:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.170.12:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.151.173:2053 [VLESS]
-      - سرویس رایگان نوا 188.164.248.13:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.61.174:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.222.230:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.214.120:443 [VLESS]
-      - سرویس رایگان نوا 8.35.211.145:2083 [VLESS]
-      - سرویس رایگان نوا 173.245.59.112:8443 [VLESS]
-      - سرویس رایگان نوا 172.66.3.244:443 [VLESS]
+      - سرویس رایگان نوا 104.17.188.129:443 [VLESS]
+      - سرویس رایگان نوا 104.16.146.121:443 [VLESS]
+      - سرویس رایگان نوا 172.67.74.20:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.29:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.1.172:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.54.50:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.223.38:2053 [VLESS]
+      - سرویس رایگان نوا 172.66.2.96:443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.138:443 [VLESS]
+      - سرویس رایگان نوا 104.19.32.71:443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.71:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.170:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.62.182:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.132:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.54.181:2053 [VLESS]
+      - سرویس رایگان نوا 188.164.248.51:2053 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا www.netiix.ir:443 [VLESS]
-      - سرویس رایگان نوا 104.19.149.25:2083 [VLESS]
-      - سرویس رایگان نوا 104.16.252.163:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.78:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.182.138:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.74:2087 [VLESS]
-      - سرویس رایگان نوا 162.159.35.233:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.246.233:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.170.12:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.151.173:2053 [VLESS]
-      - سرویس رایگان نوا 188.164.248.13:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.61.174:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.222.230:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.214.120:443 [VLESS]
-      - سرویس رایگان نوا 8.35.211.145:2083 [VLESS]
-      - سرویس رایگان نوا 173.245.59.112:8443 [VLESS]
-      - سرویس رایگان نوا 172.66.3.244:443 [VLESS]
+      - سرویس رایگان نوا 104.17.188.129:443 [VLESS]
+      - سرویس رایگان نوا 104.16.146.121:443 [VLESS]
+      - سرویس رایگان نوا 172.67.74.20:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.29:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.1.172:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.54.50:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.223.38:2053 [VLESS]
+      - سرویس رایگان نوا 172.66.2.96:443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.138:443 [VLESS]
+      - سرویس رایگان نوا 104.19.32.71:443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.71:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.170:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.62.182:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.132:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.54.181:2053 [VLESS]
+      - سرویس رایگان نوا 188.164.248.51:2053 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -152,22 +152,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا www.netiix.ir:443 [VLESS]
-      - سرویس رایگان نوا 104.19.149.25:2083 [VLESS]
-      - سرویس رایگان نوا 104.16.252.163:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.78:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.182.138:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.74:2087 [VLESS]
-      - سرویس رایگان نوا 162.159.35.233:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.246.233:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.170.12:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.151.173:2053 [VLESS]
-      - سرویس رایگان نوا 188.164.248.13:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.61.174:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.222.230:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.214.120:443 [VLESS]
-      - سرویس رایگان نوا 8.35.211.145:2083 [VLESS]
-      - سرویس رایگان نوا 173.245.59.112:8443 [VLESS]
-      - سرویس رایگان نوا 172.66.3.244:443 [VLESS]
+      - سرویس رایگان نوا 104.17.188.129:443 [VLESS]
+      - سرویس رایگان نوا 104.16.146.121:443 [VLESS]
+      - سرویس رایگان نوا 172.67.74.20:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.29:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.1.172:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.54.50:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.223.38:2053 [VLESS]
+      - سرویس رایگان نوا 172.66.2.96:443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.138:443 [VLESS]
+      - سرویس رایگان نوا 104.19.32.71:443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.71:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.170:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.62.182:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.132:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.54.181:2053 [VLESS]
+      - سرویس رایگان نوا 188.164.248.51:2053 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -194,22 +194,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا www.netiix.ir:443 [VLESS]
-      - سرویس رایگان نوا 104.19.149.25:2083 [VLESS]
-      - سرویس رایگان نوا 104.16.252.163:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.78:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.182.138:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.74:2087 [VLESS]
-      - سرویس رایگان نوا 162.159.35.233:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.246.233:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.170.12:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.151.173:2053 [VLESS]
-      - سرویس رایگان نوا 188.164.248.13:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.61.174:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.222.230:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.214.120:443 [VLESS]
-      - سرویس رایگان نوا 8.35.211.145:2083 [VLESS]
-      - سرویس رایگان نوا 173.245.59.112:8443 [VLESS]
-      - سرویس رایگان نوا 172.66.3.244:443 [VLESS]
+      - سرویس رایگان نوا 104.17.188.129:443 [VLESS]
+      - سرویس رایگان نوا 104.16.146.121:443 [VLESS]
+      - سرویس رایگان نوا 172.67.74.20:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.29:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.1.172:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.54.50:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.223.38:2053 [VLESS]
+      - سرویس رایگان نوا 172.66.2.96:443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.138:443 [VLESS]
+      - سرویس رایگان نوا 104.19.32.71:443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.71:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.170:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.62.182:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.132:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.54.181:2053 [VLESS]
+      - سرویس رایگان نوا 188.164.248.51:2053 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -222,22 +222,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا www.netiix.ir:443 [VLESS]
-      - سرویس رایگان نوا 104.19.149.25:2083 [VLESS]
-      - سرویس رایگان نوا 104.16.252.163:8443 [VLESS]
-      - سرویس رایگان نوا 198.41.223.78:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.182.138:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.74:2087 [VLESS]
-      - سرویس رایگان نوا 162.159.35.233:2053 [VLESS]
-      - سرویس رایگان نوا 104.16.246.233:8443 [VLESS]
-      - سرویس رایگان نوا 104.17.170.12:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.151.173:2053 [VLESS]
-      - سرویس رایگان نوا 188.164.248.13:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.61.174:2096 [VLESS]
-      - سرویس رایگان نوا 104.17.222.230:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.214.120:443 [VLESS]
-      - سرویس رایگان نوا 8.35.211.145:2083 [VLESS]
-      - سرویس رایگان نوا 173.245.59.112:8443 [VLESS]
-      - سرویس رایگان نوا 172.66.3.244:443 [VLESS]
+      - سرویس رایگان نوا 104.17.188.129:443 [VLESS]
+      - سرویس رایگان نوا 104.16.146.121:443 [VLESS]
+      - سرویس رایگان نوا 172.67.74.20:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.208.29:8443 [VLESS]
+      - سرویس رایگان نوا 172.66.1.172:8443 [VLESS]
+      - سرویس رایگان نوا 104.19.54.50:2053 [VLESS]
+      - سرویس رایگان نوا 198.41.223.38:2053 [VLESS]
+      - سرویس رایگان نوا 172.66.2.96:443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.138:443 [VLESS]
+      - سرویس رایگان نوا 104.19.32.71:443 [VLESS]
+      - سرویس رایگان نوا 104.19.144.71:2096 [VLESS]
+      - سرویس رایگان نوا 173.245.58.170:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.62.182:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.132:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.54.181:2053 [VLESS]
+      - سرویس رایگان نوا 188.164.248.51:2053 [VLESS]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
