@@ -110,6 +110,397 @@
       "tag": "DIRECT"
     },
     {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+      "server": "www.netiix.ir",
+      "server_port": 443,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+      "server": "104.26.10.232",
+      "server_port": 443,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+      "server": "104.26.10.123",
+      "server_port": 2096,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+      "server": "104.19.52.121",
+      "server_port": 2083,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+      "server": "104.17.21.209",
+      "server_port": 2087,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+      "server": "162.159.38.153",
+      "server_port": 8443,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+      "server": "104.17.110.141",
+      "server_port": 2083,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+      "server": "104.16.153.236",
+      "server_port": 2087,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+      "server": "104.17.102.178",
+      "server_port": 2053,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+      "server": "104.16.155.163",
+      "server_port": 2096,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+      "server": "8.39.125.202",
+      "server_port": 443,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+      "server": "104.17.120.55",
+      "server_port": 2083,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+      "server": "104.19.34.227",
+      "server_port": 8443,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+      "server": "104.16.253.173",
+      "server_port": 2096,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+      "server": "104.16.254.191",
+      "server_port": 2053,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+      "server": "104.17.184.133",
+      "server_port": 2087,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]",
+      "server": "104.17.171.67",
+      "server_port": 2096,
+      "uuid": "9c4364d0-0bd3-4763-87b8-252c206a5cb8",
+      "transport": {
+        "path": "/proxyip=149.248.199.173",
+        "type": "ws",
+        "headers": {
+          "Host": "www.netiix.ir"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "www.netiix.ir",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "random"
+        }
+      }
+    },
+    {
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
@@ -118,14 +509,47 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "DIRECT"
+        "DIRECT",
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "DIRECT"
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -135,14 +559,46 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "DIRECT"
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "DIRECT"
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ]
     },
     {
@@ -176,7 +632,24 @@
         "🎯 全球直连",
         "♻️ 自动选择",
         "🔯 故障转移",
-        "🔮 负载均衡"
+        "🔮 负载均衡",
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ]
     },
     {
@@ -190,7 +663,24 @@
         "🎯 全球直连",
         "♻️ 自动选择",
         "🔯 故障转移",
-        "🔮 负载均衡"
+        "🔮 负载均衡",
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ]
     },
     {
@@ -199,7 +689,24 @@
       "outbounds": [
         "📢 https://t.me/irnova_proxy",
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
-        "DIRECT"
+        "DIRECT",
+        "سرویس رایگان نوا www.netiix.ir:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.232:443 [VLESS]",
+        "سرویس رایگان نوا 104.26.10.123:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.52.121:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.21.209:2087 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.153:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.110.141:2083 [VLESS]",
+        "سرویس رایگان نوا 104.16.153.236:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.102.178:2053 [VLESS]",
+        "سرویس رایگان نوا 104.16.155.163:2096 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.202:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.120.55:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.227:8443 [VLESS]",
+        "سرویس رایگان نوا 104.16.253.173:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.254.191:2053 [VLESS]",
+        "سرویس رایگان نوا 104.17.184.133:2087 [VLESS]",
+        "سرویس رایگان نوا 104.17.171.67:2096 [VLESS]"
       ]
     },
     {
